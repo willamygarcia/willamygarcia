@@ -3,28 +3,29 @@
   <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="javascript" width="100%" height="350"/>
  </p>
 
- <p style=inline-block>
-   <a href="https://cobaxtecnologia.com.br" target="_blank">
-     <img alt="Youtube" src="https://img.shields.io/badge/COBAX%20TECNOLOGIA-cobaxtecnologia.com.br-000?style=for-the-badge&logo=appveyor" />
-   </a> 
-   <a href="https://www.linkedin.com/in/willamygarcia" target="_blank">
-     <img alt="Linkedin" src="https://img.shields.io/badge/willamygarcia-blue?logo=LinkedIn&style=plastic" />
-   </a>
-   <a href="https://www.youtube.com/c/WillamyGarcia" target="_blank">
-      <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCegkPauW85Tx0veXEJTTEcg?style=social" />
-   </a>
- </p>
+ <p style=inline-block>                                                                                                                         
+   <a href="https://cobaxtecnologia.com.br" target="_blank">                                                                                    
+     <img alt="Youtube" src="https://img.shields.io/badge/COBAX%20TECNOLOGIA-cobaxtecnologia.com.br-000?style=for-the-badge&logo=appveyor" />   
+   </a>                                                                                                                                         
+   <a href="https://www.linkedin.com/in/willamygarcia" target="_blank">                                                                         
+     <img alt="Linkedin" src="https://img.shields.io/badge/willamygarcia-blue?logo=LinkedIn&style=plastic" />                                   
+   </a>                                                                                                                                         
+   <a href="https://www.youtube.com/c/WillamyGarcia" target="_blank">                                                                           
+      <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCegkPauW85Tx0veXEJTTEcg?style=social" />                      
+   </a>                                                                                                                                         
+ </p>                                                                                                                                           
 
 
-Veja um resumo geral das minhas atividades.
+Veja um resumo geral das minhas atividades.                                                                                                    
+
 
 ## *Atividades*
-<p>
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=willamygarcia&show_icons=true&theme=dark"/>
-<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willamygarcia&layout=compact&langs_count=6&theme=dark" />
-</p>
-<br>
 
+ <p align="center">                                                                                                                                             
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=willamygarcia&show_icons=true&theme=dark"/>                           
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willamygarcia&layout=compact&langs_count=6&theme=dark" />  
+ </p>                                                                                                                                            
+ <br>                                                                                                                                            
 
 
 ## Meus Conhecimentos
