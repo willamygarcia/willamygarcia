@@ -1,6 +1,6 @@
  <h1 align="center"> Hi 👋 Olá eu sou Willamy Garcia, e esse é meu perfil no GitHub </h1>
  <p align="center">
-  <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="javascript" width="1000" height="350"/>
+  <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="javascript" width="100%" height="350"/>
  </p>
 
  <p style=inline-block>
