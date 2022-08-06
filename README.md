@@ -1,4 +1,8 @@
- <h1 align="center"> Hi there 👋 Olá eu sou Willamy Garcia, e esse é meu perfil no GitHub </h1>
+ <h1 align="center"> Hi 👋 Olá eu sou Willamy Garcia, e esse é meu perfil no GitHub </h1>
+ <p align="center">
+  <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="javascript" width="1000" height="350"/>
+ </p>
+
  <p style=inline-block>
    <a href="https://cobaxtecnologia.com.br" target="_blank">
      <img alt="Youtube" src="https://img.shields.io/badge/COBAX%20TECNOLOGIA-cobaxtecnologia.com.br-000?style=for-the-badge&logo=appveyor" />
